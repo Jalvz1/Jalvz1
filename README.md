@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jalvz1
-- 👀 I’m interested in improving my programming skills and currenlty working on my bachelors in computer science.
+- I am a computer science student focusing on software development with a growing interest in machine learning/AI
 
 <!---
 Jalvz1/Jalvz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
