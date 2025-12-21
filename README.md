@@ -1,5 +1,24 @@
-- 👋 Hi, I’m @Jalvz1
-- I am a computer science student focusing on software development with a growing interest in machine learning/AI
+# Hey, I'm Javier 👋
+
+I'm a senior Computer Science student at the University of Houston (graduating May 2026) who likes building software that solves real problems. Whether it's a property management system for an actual rental business or a machine learning pipeline for lung cancer detection, I enjoy taking ideas from concept to working application.
+
+Currently, I'm focused on full-stack development and have been exploring machine learning on the side—my team's lung cancer detection project recently placed 3rd at UH's Fall 2025 Data Science Showcase.
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-alvarez-2j)
 
 <!---
 Jalvz1/Jalvz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
