@@ -1,8 +1,12 @@
 # Hey, I'm Javier 👋
 
-I'm a senior Computer Science student at the University of Houston (graduating May 2026) who likes building software that solves real problems. Whether it's a property management system for an actual rental business or a machine learning pipeline for lung cancer detection, I enjoy taking ideas from concept to working application.
+I'm a senior Computer Science student at the University of Houston (graduating May 2026) who likes building software that solves real problems.
 
-Currently, I'm focused on full-stack development and have been exploring machine learning on the side—my team's lung cancer detection project recently placed 3rd at UH's Fall 2025 Data Science Showcase.
+I am focused on full-stack development and have been exploring machine learning/AI
+
+## 🏆 Achievements
+
+- **3rd Place** – UH Fall 2025 AI and Data Science Showcase (Lung Cancer Detection)
 
 ## 🛠️ Tech Stack
 
@@ -21,9 +25,7 @@ Currently, I'm focused on full-stack development and have been exploring machine
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-## 🏆 Achievements
 
-- **3rd Place** – UH Fall 2025 AI and Data Science Showcase (Lung Cancer Detection)
 
 ## 📫 Let's Connect
 
