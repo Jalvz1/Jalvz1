@@ -1,4 +1,4 @@
-# Hey, I'm Javier 👋
+# Hello, I'm Javier
 
 I'm a senior Computer Science student at the University of Houston (graduating May 2026) who likes building software that solves real problems.
 
