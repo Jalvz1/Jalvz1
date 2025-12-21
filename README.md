@@ -2,7 +2,9 @@
 
 I'm a senior Computer Science student at the University of Houston (graduating May 2026) who likes building software that solves real problems.
 
-Currently, I'm focused on full-stack development and have been exploring machine learning/A.I on the side as my interest in the topic grows. I worked on a team to create a lung cancer detection project recently and placed 3rd at UH's Fall 2025 AI and Data Science Showcase. 
+I am currently focused on full-stack development and have been exploring machine learning/A.I on the side as my interest in the topic grows. 
+
+I worked on a team to create a lung cancer detection project recently and placed 3rd at UH's Fall 2025 AI and Data Science Showcase. 
 
 ## 🛠️ Tech Stack
 
