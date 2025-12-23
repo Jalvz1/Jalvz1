@@ -1,14 +1,14 @@
-# Hello, I'm Javier
+# Hello there,
 
-I'm a senior Computer Science student at the University of Houston (graduating May 2026) who likes building software that solves real problems.
+I'm a senior Computer Science student at the University of Houston (graduating May 2026) who enjoys building software that solves real problems.
 
 I am focused on full-stack development and have been exploring machine learning/AI
 
-## 🏆 Achievements
+## Achievements
 
 - **3rd Place** – UH Fall 2025 AI and Data Science Showcase (Lung Cancer Detection)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **What I work with most:**
 
