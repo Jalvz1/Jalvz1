@@ -29,7 +29,7 @@ I am focused on full-stack development and have been exploring machine learning/
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 
-## 📫 Let's Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-alvarez-2j)
 
