@@ -6,7 +6,8 @@ I am focused on full-stack development and have been exploring machine learning/
 
 ## Achievements
 
-- **3rd Place** - [UH Fall 2025 AI and Data Science Showcase](https://hpedsi.uh.edu/partnerships/sponsored-events/data-science-showcase) ( Dual-Pipeline Lung Cancer Detection System: AI-Powered Lung Cancer Detection System)
+**3rd Place - [UH Fall 2025 AI and Data Science Showcase](https://hpedsi.uh.edu/partnerships/sponsored-events/data-science-showcase)**
+- Project: Lung Cancer Detection using Machine Learning
 
 ## Tech Stack
 
