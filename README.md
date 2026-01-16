@@ -2,7 +2,7 @@
 
 I'm a senior Computer Science student at the University of Houston (graduating May 2026) who enjoys building software that solves problems.
 
-I am focused on full-stack development and have been exploring machine learning/AI
+I am focused on full-stack development and have been exploring implementing machine learning/AI
 
 ## Achievements
 
