@@ -9,8 +9,8 @@ I am skilled in full-stack development and machine learning/AI with the former b
 **3rd Place - [UH Fall 2025 AI and Data Science Showcase](https://hpedsi.uh.edu/partnerships/sponsored-events/data-science-showcase)**
 - **Project:** Dual-Pipeline Lung Cancer Detection System
 - **Goal:** Predict lung cancer early and assist healthcare providers in increasing diagnosis rates by detecting cancer and classifying tumors as benign, normal, or malignant
+- **Description:** Two-part system: (1) Risk assessment model that alerts healthcare providers to investigate potential pulmonary illness based on patient health, lifestyle, environment, and vitals; (2) CT scan analysis CNN model that detects lung cancer and classifies tumor(Benign, Normal, Malignant)
 - **Technologies:** Python, TensorFlow/Keras
-- **Description:** Two-part system: (1) Risk assessment model that alerts healthcare providers to investigate potential pulmonary illness based on patient health, lifestyle, environment, and vitals; (2) CT scan analysis model that detects lung cancer and classifies tumor malignancy
 
 ## Tech Stack
 
