@@ -3,9 +3,7 @@ I'm a senior Computer Science student at the University of Houston (graduating M
 I am skilled in full-stack development and machine learning/AI with the former being my primary focus.
 
 ## 🌐 Portfolio
-<a href="https://www.alvarezjavi.com/">
-  <img src="https://api.microlink.io/?url=https://www.alvarezjavi.com/&screenshot=true&meta=false&viewport.width=1280&viewport.height=720&embed=screenshot.url" width="600" alt="Portfolio Preview">
-</a>
+[![Portfolio Preview](https://api.microlink.io/?url=https://www.alvarezjavi.com/&screenshot=true&meta=false&embed=screenshot.url)](https://www.alvarezjavi.com/)
 
 **[alvarezjavi.com](https://www.alvarezjavi.com/)**
 
