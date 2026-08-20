@@ -1,5 +1,5 @@
 # Hello there,
-I'm a senior Computer Science student at the University of Houston (graduating May 2026) and enjoy building software to improve efficency. 
+I'm a Computer Science graduate from the University of Houston and enjoy building software to improve efficiency and/or solves problems
 I am skilled in full-stack development and machine learning/AI with the former being my primary focus.
 
 ## 🌐 Portfolio
