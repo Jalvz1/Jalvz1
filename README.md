@@ -1,6 +1,5 @@
 # Hello there,
-I'm a Computer Science graduate from the University of Houston and enjoy building software to improve efficiency and/or solves problems. 
-I am skilled in full-stack development and machine learning/AI with the former being my primary focus.
+I’m a software engineer and Computer Science graduate of the University of Houston. I have experience in full-stack development and machine learning, and I enjoy building software that makes work more efficient and solves real problems.
 
 ## 🌐 Portfolio
 [![Portfolio Preview](https://api.microlink.io/?url=https://www.alvarezjavi.com/&screenshot=true&meta=false&embed=screenshot.url)](https://www.alvarezjavi.com/)
